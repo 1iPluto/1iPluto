@@ -1,4 +1,5 @@
 ### Hi there, I'm Marwan! 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darkboy-js-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
 # About
 - Name : Marwan
@@ -9,6 +10,7 @@
 
 # **The programming languages I know**
 - JavaScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 - Node.js <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 - Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>     
 
