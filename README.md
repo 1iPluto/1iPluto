@@ -1,7 +1,7 @@
 ### Hi there, I'm Marwan! 👋
 
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/479941915505065984.png" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1iPluto" alt="sujal-ops-cyber" /> </p>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/479941915505065984.png" alt="sujal-ops-cyber" /> </p>
 
 # About
 - Name : Marwan
