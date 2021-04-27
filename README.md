@@ -1,5 +1,5 @@
 ### Hi there, I'm Marwan! 👋
-![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
+![Discord](https://discord.c99.nl/widget/theme-1/479941915505065984.png)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1iPluto" alt="sujal-ops-cyber" /> </p>
 
 # About
