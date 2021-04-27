@@ -29,6 +29,7 @@ YouTube:
 
 
 # Stats
-![stats](https://github-readme-stats.vercel.app/api?username=1iPluto&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1iPluto&theme=radical)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=1iPluto&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=1iPluto&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1iPluto&theme=tokyonight&hide=batchfile">
+
