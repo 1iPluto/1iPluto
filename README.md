@@ -1,6 +1,6 @@
 ### Hi there, I'm Marwan! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1iPluto" alt="sujal-ops-cyber" /> </p>
-
+![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
 # About
 - Name : Marwan
 - Age : 18 ( 2003 / 3 / 23 )
