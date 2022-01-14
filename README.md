@@ -32,3 +32,4 @@ YouTube:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1iPluto&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1iPluto&theme=tokyonight&hide=batchfile">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=OQKw6jEYTimk59BkyKUlfQ&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=OQKw6jEYTimk59BkyKUlfQ&redirect=true)
