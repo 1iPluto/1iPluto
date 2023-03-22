@@ -19,8 +19,7 @@
 - Malicious & Viruses
 
 # Social Media
-Discord: 
-<br>Pluto.#4963</br>
+Discord: <br>Pluto.#4963</br>
 
 # Stats
 
