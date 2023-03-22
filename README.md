@@ -5,7 +5,7 @@
 
 # About
 - Name : Marwan
-- Age : 18 ( 2003 / 3 / 23 )
+- Birthday : 3 / 23 
 - Location : Egypt / Cairo
 - Nickname : Pluto
 - Language : Arabic
@@ -20,13 +20,7 @@
 
 # Social Media
 Discord: 
-<br>
-Twitter: 
-<br>
-YouTube: 
-<br>
-[Discord Server](https://discord.gg/WrQ9jRF)
-
+<br>Pluto.#4963</br>
 
 # Stats
 
