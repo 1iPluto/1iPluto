@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/1iPluto">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Software+Engineer;Senior+Backend+Developer;Cloud+Infrastructure+Architect;Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=600&lines=Software+Engineer;Senior+Backend+Developer;Cloud+Infrastructure+Architect" alt="Typing SVG" />
   </a>
 
   <br />
