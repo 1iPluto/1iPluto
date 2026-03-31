@@ -1,53 +1,57 @@
-# Hi there, I'm Marwan (Pluto) 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1iPluto&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://lanyard.cnrad.dev/api/346282170786250753" alt="Discord Status" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=1iPluto&color=blueviolet&style=flat-square" alt="1iPluto" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-</p>
-
-I am a **Backend Engineer** and **Software Engineering Student** based in Cairo, Egypt. I specialize in building scalable distributed systems, real-time infrastructure, and exploring the depths of cybersecurity.
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), Java, Python |
-| **Backend** | Node.js, Next.js, WebSocket (Socket.io) |
-| **Database & Cloud** | Supabase, PostgreSQL, Redis, AWS, GCP |
-| **Tools & Security** | Git, Linux, Security Research, Malware Analysis |
+  <h1>Hi, I'm Marwan (aka Pluto) 👋</h1>
+  <h3>Backend Developer & Software Engineer | Cairo, Egypt</h3>
+  <p>Building scalable cloud infrastructure, distributed systems, and high-performance applications.</p>
+</div>
 
 ---
 
-### 🚀 Key Projects
+## 👨‍💻 About Me
 
-- **[Multi-tenant WebSocket Gateway](https://github.com/yourusername/ws-gateway-scaling)** *A scalable infrastructure for real-time communication across multiple tenants.*
-- **[Node-Redis Job Engine](https://github.com/yourusername/node-redis-job-engine)** *A high-performance distributed task processing system.*
-- **[npm-diet-detective](https://github.com/yourusername/npm-diet-detective)** *(In Progress)* *An active refactoring tool to optimize and slim down library dependencies.*
+I am a university student and backend engineer with a strong focus on building robust, infrastructure-level tools and scalable APIs. I enjoy tackling complex architectural challenges, optimizing system performance, and exploring the intersection of distributed systems and cloud monetization. 
 
----
-
-### 🔍 Research Interests
-- **Cybersecurity:** Focused on penetration testing and malware analysis.
-- **System Optimization:** Debloating software and fine-tuning PC hardware for peak performance.
-- **Cloud Architecture:** Leveraging AWS/GCP credits to build micro-SaaS and automated tools.
+- 🔭 **Currently Building:** Expanding my portfolio with active refactoring tools and micro-SaaS platforms.
+- ⚙️ **Engineering Focus:** Real-time communication, job queuing, system optimization, and cloud architecture (AWS/GCP).
+- 🛡️ **Security Interests:** Offensive security, malware analysis, and system vulnerabilities.
+- 🎮 **Beyond Coding:** Competitive gaming, PC hardware maintenance/optimization, and physics-based game development.
 
 ---
 
-### 📊 GitHub Statistics
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1iPluto&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1iPluto&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+**Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Databases & Storage:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Infrastructure & Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-### 📫 Connect with me
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1iPluto&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1iPluto&theme=tokyonight&hide=batchfile&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations on backend architecture, cloud infrastructure, or offensive security discussions.
+
 - **Discord:** `1ipluto`
-- **Location:** Cairo, Egypt 🇪🇬
-
-<p align="center"> 
-  <img src="https://lanyard.cnrad.dev/api/346282170786250753" alt="Discord Status" /> 
-</p>
