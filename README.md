@@ -1,9 +1,14 @@
 <div align="center">
+  <a href="https://github.com/1iPluto">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Software+Engineer;Senior+Backend+Developer;Cloud+Infrastructure+Architect;Security+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br />
+
   <img src="https://komarev.com/ghpvc/?username=1iPluto&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://lanyard.cnrad.dev/api/346282170786250753" alt="Discord Status" />
 
   <h1>Hi, I'm Marwan (aka Pluto) 👋</h1>
-  <h3>Backend Developer & Software Engineer | Cairo, Egypt</h3>
   <p>Building scalable cloud infrastructure, distributed systems, and high-performance applications.</p>
 </div>
 
@@ -29,6 +34,7 @@ I am a university student and backend engineer with a strong focus on building r
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 **Databases & Storage:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
